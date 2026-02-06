@@ -2,7 +2,6 @@
 
 A futuristic, high-performance registration platform designed for the **Digital Talent 2026** competition. This project features a stunning **Interactive "Living Wave" Background**, glassmorphism aesthetics, and real-time **WhatsApp Notifications**.
 
-![Project Preview](https://via.placeholder.com/800x450?text=Preview+Image+Here)
 
 ## ✨ Key Features
 
